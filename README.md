@@ -2,7 +2,7 @@
 
 This repository is for Initialization of Adaptive Gradient Descent Optimizers, introduced in the following paper:
  
-Abulikemu Abuduweili and Changliu Liu, [Revisiting the Initial Steps in Adaptive Gradient Descent Optimization](https://arxiv.org/abs/2412.02153), CPAL 2025.  
+Abulikemu Abuduweili and Changliu Liu, [Revisiting the Initial Steps in Adaptive Gradient Descent Optimization](https://arxiv.org/abs/2412.02153), CPAL 2025 in adjunct with OPT 2024.  
  
 
 
